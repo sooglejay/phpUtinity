@@ -1,3 +1,0 @@
-D:/jiangwei/huawei/mine/SDK-gcc/build/CMakeFiles/cdn.dir
-D:/jiangwei/huawei/mine/SDK-gcc/build/CMakeFiles/ALL_BUILD.dir
-D:/jiangwei/huawei/mine/SDK-gcc/build/CMakeFiles/ZERO_CHECK.dir
